@@ -1,0 +1,5 @@
+phenological_phase,start_id,end_id
+sowing-emergence,10,12
+emergence-booting,12,15
+booting-heading,15,18
+heading-senescence,18,22
